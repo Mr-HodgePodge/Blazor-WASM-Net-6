@@ -144,6 +144,15 @@ main[b-7v9fucczvh] {
     }
 }
 /* /Shared/ProductList.razor.rz.scp.css */
+.media[b-fx5atut3jr] {
+    display: flex;
+    align-items: flex-start;
+}
+
+.media-body[b-fx5atut3jr] {
+    flex: 1;
+}
+
 .media-img[b-fx5atut3jr] {
     max-height: 200px;
     max-width: 200px;
