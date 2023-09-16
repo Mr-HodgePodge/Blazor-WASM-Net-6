@@ -51,3 +51,8 @@ C:\Users\Dylan\Documents\Coding\NET Core\Blazor-WASM-Net-6\Blazor-WASM-Net-6\Bla
 C:\Users\Dylan\Documents\Coding\NET Core\Blazor-WASM-Net-6\Blazor-WASM-Net-6\BlazorEcommerce\BlazorEcommerce\Server\obj\Debug\net6.0\BlazorEcommerce.Server.pdb
 C:\Users\Dylan\Documents\Coding\NET Core\Blazor-WASM-Net-6\Blazor-WASM-Net-6\BlazorEcommerce\BlazorEcommerce\Server\obj\Debug\net6.0\BlazorEcommerce.Server.genruntimeconfig.cache
 C:\Users\Dylan\Documents\Coding\NET Core\Blazor-WASM-Net-6\Blazor-WASM-Net-6\BlazorEcommerce\BlazorEcommerce\Server\obj\Debug\net6.0\ref\BlazorEcommerce.Server.dll
+C:\Users\Dylan\Documents\Coding\NET Core\Blazor-WASM-Net-6\Blazor-WASM-Net-6\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dylan\Documents\Coding\NET Core\Blazor-WASM-Net-6\Blazor-WASM-Net-6\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dylan\Documents\Coding\NET Core\Blazor-WASM-Net-6\Blazor-WASM-Net-6\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dylan\Documents\Coding\NET Core\Blazor-WASM-Net-6\Blazor-WASM-Net-6\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dylan\Documents\Coding\NET Core\Blazor-WASM-Net-6\Blazor-WASM-Net-6\BlazorEcommerce\BlazorEcommerce\Server\obj\Debug\net6.0\BlazorEcommerce.Server.MvcApplicationPartsAssemblyInfo.cs

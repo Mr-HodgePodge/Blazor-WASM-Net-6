@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "frJRVbHtqzxQmEFVheOSQJOpPPD6eQclLFSppeg3Wg9M4WEo06CCQCo9hBk7c2lM6i8OMZ2C+ekYa7YQ3T30vQ==",
+  "dgSpecHash": "X/LzH/PO7/OZcYNUOJFnyWQDuUND2odC3l5Yi06Ngk+fTaUbbf7VW+bvoN8URPIefXQIhCBtXcilTZymCu/eZg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dylan\\Documents\\Coding\\NET Core\\Blazor-WASM-Net-6\\Blazor-WASM-Net-6\\BlazorEcommerce\\BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\Dylan\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.15\\microsoft.aspnetcore.components.webassembly.6.0.15.nupkg.sha512",
     "C:\\Users\\Dylan\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\6.0.15\\microsoft.aspnetcore.components.webassembly.server.6.0.15.nupkg.sha512",
     "C:\\Users\\Dylan\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.15\\microsoft.aspnetcore.metadata.6.0.15.nupkg.sha512",
+    "C:\\Users\\Dylan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Dylan\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\Dylan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Dylan\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
@@ -28,6 +29,11 @@
     "C:\\Users\\Dylan\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\Dylan\\.nuget\\packages\\microsoft.jsinterop\\6.0.15\\microsoft.jsinterop.6.0.15.nupkg.sha512",
     "C:\\Users\\Dylan\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.15\\microsoft.jsinterop.webassembly.6.0.15.nupkg.sha512",
+    "C:\\Users\\Dylan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Dylan\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dylan\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dylan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Dylan\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\Dylan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\Dylan\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\Dylan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
