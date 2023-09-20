@@ -827,3 +827,4 @@ C:\Users\Dylan\Documents\Coding\NET Core\Blazor-WASM-Net-6\Blazor-WASM-Net-6\Bla
 C:\Users\Dylan\Documents\Coding\NET Core\Blazor-WASM-Net-6\Blazor-WASM-Net-6\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\BlazorEcommerce.Client.pdb
 C:\Users\Dylan\Documents\Coding\NET Core\Blazor-WASM-Net-6\Blazor-WASM-Net-6\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\ref\BlazorEcommerce.Client.dll
 C:\Users\Dylan\Documents\Coding\NET Core\Blazor-WASM-Net-6\Blazor-WASM-Net-6\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ProductList.razor.rz.scp.css
+C:\Users\Dylan\Documents\Coding\NET Core\Blazor-WASM-Net-6\Blazor-WASM-Net-6\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Pages\ProductDetails.razor.rz.scp.css

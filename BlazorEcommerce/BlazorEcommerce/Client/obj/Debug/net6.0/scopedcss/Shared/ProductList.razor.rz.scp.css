@@ -1,12 +1,3 @@
-.media[b-fx5atut3jr] {
-    display: flex;
-    align-items: flex-start;
-}
-
-.media-body[b-fx5atut3jr] {
-    flex: 1;
-}
-
 .media-img[b-fx5atut3jr] {
     max-height: 200px;
     max-width: 200px;
@@ -23,10 +14,6 @@
 .media-img-wrapper[b-fx5atut3jr] {
     width: 200px;
     text-align: center;
-}
-
-.price[b-fx5atut3jr] {
-    color: green;
 }
 
 @media (max-width: 1023.98px) {
